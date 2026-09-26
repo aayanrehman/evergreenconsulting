@@ -9,6 +9,7 @@
 - Double-sided, full colour. Colours: evergreen `#1F4A3C`, paper `#FAFAF7`, brass rule `#B8935A`.
 - Suggested stock: 16pt matte or soft-touch. A matte finish suits the palette; avoid high gloss.
 - Fonts are Fraunces and Albert Sans (Google Fonts), embedded in the PDF.
+- The QR on the back encodes `https://evergreenconsulting.co/` and prints at 0.5 in. Keep the white quiet zone around it; do not tint or shrink it.
 
 ## To change it
 Edit `business-card.html`, then:
